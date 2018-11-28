@@ -1,0 +1,13 @@
+; <<<<<<< 1.6.1.4 >>>>>>>>>>> 
+; Create Time: 2018/10/30 ÐÇÆÚ¶þ ÏÂÎç 6:16:59
+
+C_COMMON_EN	EQU	1
+C_WAITKEY_EN	EQU	1
+C_USER_EN	EQU	1
+C_PROJ_EN	EQU	1
+C_AUTOSLEEP_EN	EQU	1
+C_PWOFF_EN	EQU	1
+C_MAIN0_EN	EQU	1
+C_MODE0_EN	EQU	1
+
+
